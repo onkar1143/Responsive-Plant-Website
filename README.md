@@ -1,13 +1,46 @@
-# Responsive Plants Website 🎍 
-## [Watch it on youtube](https://youtu.be/lpzExNZDizI)
-### Responsive Plants Website 🎍
+# 🌿 Responsive Plants Website
 
-- Responsive Plants Website Using HTML, CSS and JavaScript.
-- Contains animations when scrolling.
-- Includes a dark and light mode.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+## 👨‍💻 Developed By
+**Onkar Shelvane**  
+GitHub: https://github.com/onkar1143  
 
-Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+---
 
-![plants website](/preview.png)
+## 📸 Project Preview
+![Plants Website](./preview.png)
+
+---
+
+## 🚀 Features
+- Responsive Plants Website using HTML, CSS, JavaScript  
+- Smooth scrolling animations  
+- Dark & Light mode support  
+- Mobile-first design  
+- Works on all devices  
+
+---
+
+## 🛠️ Tech Stack
+- HTML  
+- CSS  
+- JavaScript  
+
+---
+
+## 📌 About Project
+This project is a responsive plant website designed with modern UI/UX principles.  
+It includes animations, theme switching, and mobile-first responsiveness.
+
+---
+
+## 📺 Reference
+[Bedimcode YouTube Channel](https://www.youtube.com/c/Bedimcode)
+
+---
+
+## ⭐ Future Improvements
+- Add backend integration  
+- Add user login system  
+- Improve animations  
+
+---
